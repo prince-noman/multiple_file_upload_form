@@ -62,7 +62,7 @@ if ( isset( $_POST['submit'] ) ) {
     <div class="row">
         <div class="column column-60 column-offset-20">
             <h1 class="h1-primary">Multiple File Upload System</h1>
-            <h5><b>This form has Javascript Injection Portection.</b></h5>
+            <h5><b>This form has Javascript Injection Protection.</b></h5>
 
 <?php
 
